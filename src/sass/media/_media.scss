@@ -1,0 +1,14 @@
+@media (max-width: 800px) {
+    h1 {
+        font-size: 50px;
+    }
+    .wrapper {
+        flex-direction: column;
+        img {
+            display: inline-block;
+            height: 100%;
+            width: 100%;
+            margin-top: 50px;
+        }
+    }
+}

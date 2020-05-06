@@ -1,1 +1,1 @@
-h1{font-family:Roboto,sans-serif;text-align:center;font-size:200px}.wrapper{width:80%;margin:0 auto;display:flex;justify-content:space-between;align-items:center}.wrapper img{width:50%;height:70%}
+h1{font-family:Roboto,sans-serif;text-align:center;font-size:200px}.wrapper{width:80%;margin:0 auto;display:flex;justify-content:space-between;align-items:center}.wrapper img{width:50%;height:70%}@media (max-width:800px){h1{font-size:50px}.wrapper{flex-direction:column}.wrapper img{display:inline-block;height:100%;width:100%;margin-top:50px}}
